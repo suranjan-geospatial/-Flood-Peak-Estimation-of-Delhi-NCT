@@ -1,14 +1,18 @@
 # -Flood-Peak-Estimation-of-Delhi-NCT
-## Overview
-This project estimates Design Flood and Probable Maximum Flood (PMF)
-for major sub-basins of Delhi NCT using rainfall data from the Palam
-Rain Gauge Station.
-
-Hydrological methods such as the Rational Method and Unit Hydrograph
-approach were used for flood peak estimation.
 
 ## Study Area
-Delhi National Capital Territory (NCT)
+
+Delhi National Capital Territory (NCT), India
+
+## Overview
+
+This project focuses on hydrological analysis and flood peak estimation of various sub basins in Delhi using GIS and remote sensing techniques.
+
+## Objectives
+
+Delineate watershed and sub-basins
+Analyze drainage patterns
+Estimate peak discharge for the sub basins
 
 Sub-basins analyzed:
 - Aruna Nagar
@@ -17,6 +21,25 @@ Sub-basins analyzed:
 - Barapullah Basin
 - Najafgarh Basin
 
+## Tools & Technologies
+
+QGIS/ArcGIS
+Python
+Remote Sensing (SRTM DEM)
+GIS Hydrology Tools
+
+## Methodology
+
+1. Data Collection
+2. DEM preprocessing
+3. Hydrological processing (i.e. Watershed Delineation, Sub Basin extraction etc.)
+4. Calculation of peak discharge for various sub basins
+5. Map preparation
+
+## Output Maps
+
+### Study Area Map
+![Study Area](maps/Study area.jpg)
 ## Results
 Estimated PMF values:
 
