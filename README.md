@@ -39,7 +39,33 @@ GIS Hydrology Tools
 ## Output Maps
 
 ### Study Area Map
-![Study Area](maps/Study area.jpg)
+![Study Area](maps/Study_area_map.jpg)
+Study area representing Delhi NCT boundary.
+
+### Land Use and Land Cover Map
+![LULC](LULC_map.png)
+
+Land use and land cover pattern of Delhi.
+
+### Sub-Basin Map
+![Subbasin](maps/Subbasin_map.png)
+
+Detailed sub-basin classification for hydrological analysis.
+
+
+### Soil Map
+![Soil](maps/Soil_map.jpg)
+
+Soil distribution affecting infiltration and runoff.
+
+---
+
+### False Color Composite (2023)
+![FCC](maps/fcc_delhi_2023.jpg)
+
+Remote sensing image highlighting vegetation and land cover.
+
+
 ## Results
 Estimated PMF values:
 
