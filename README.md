@@ -42,11 +42,6 @@ GIS Hydrology Tools
 ![Study Area](maps/Study_area_map.jpg)
 Study area representing Delhi NCT boundary.
 
-### Land Use and Land Cover Map
-![LULC](LULC_map.png)
-
-Land use and land cover pattern of Delhi.
-
 ### Sub-Basin Map
 ![Subbasin](maps/Subbasin_map.png)
 
